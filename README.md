@@ -17,8 +17,8 @@ On macOS, GistHunt runs as a menu bar app. It has no Dock icon, so look for its 
 
 ## Requirements
 
-- [Flutter](https://docs.flutter.dev/get-started/install) 3.35 or newer (Dart 3.7+)
-- For iOS/macOS: Xcode and CocoaPods
+- [Flutter](https://docs.flutter.dev/get-started/install) 3.41 or newer
+- For iOS/macOS: Xcode
 - For Android: Android Studio or the Android SDK command-line tools
 - A GitHub account to create an OAuth App (below)
 
@@ -31,9 +31,11 @@ Run `flutter doctor` to confirm your toolchain is set up for the platforms you w
 | macOS | Supported (menu bar app) |
 | iOS | Supported |
 | Android | Supported |
-| Windows, Linux, Web | Not supported. The project scaffolding exists, but GitHub sign-in is not wired up on these platforms. |
+| Windows, Linux, Web | Not yet supported. The project scaffolding exists, but GitHub sign-in is not wired up on these platforms. |
 
 Sign-in relies on the `gisthunt://callback` custom URL scheme. That scheme is registered only in the iOS, macOS, and Android projects.
+
+Flutter itself runs on Windows, Linux, and the web, so these platforms are within reach. The main missing piece is the sign-in callback on each one. Pull requests that add support are welcome.
 
 ## Create a GitHub OAuth App
 

@@ -15,16 +15,16 @@ dependencies:
 
   cupertino_icons: ^1.0.8
   http: ^1.2.2
-  flutter_secure_storage: ^9.2.2
+  flutter_secure_storage: ^10.3.4
   url_launcher: ^6.3.1
   flutter_dotenv: ^5.2.1
   time_since: ^1.0.1
-  shared_preferences: ^2.3.2
+  shared_preferences: ^2.5.6
   flutter_highlight: ^0.7.0
   highlight: ^0.7.0
   provider: ^6.1.2
   cached_network_image: ^3.4.1
-  flutter_web_auth_2: ^4.0.1
+  flutter_web_auth_2: ^5.1.0
   intl: ^0.20.2
   launch_at_startup: ^0.3.1
   connectivity_plus: ^6.1.0
@@ -40,9 +40,18 @@ dev_dependencies:
     sdk: flutter
   flutter_lints: ^5.0.0
 
+dependency_overrides:
+  # flutter_web_auth_2 5.1.0 pins ^0.0.3; 1.0.0 adds Swift Package Manager
+  # support with an identical API (WindowToFront.activate()).
+  window_to_front: ^1.0.0
+
 flutter:
   uses-material-design: true
   generate: true
+
+  # iOS/macOS plugins are resolved with Swift Package Manager (no CocoaPods).
+  config:
+    enable-swift-package-manager: true
 
   # GitHub OAuth credentials, loaded at runtime by flutter_dotenv.
   # Copy .env.example to .env before building.
