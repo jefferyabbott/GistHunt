@@ -1,0 +1,1053 @@
+{
+  "signIn": "Sign in with GitHub",
+  "@signIn": {
+    "description": "GitHub sign in button text"
+  },
+  "search": "Search",
+  "@search": {
+    "description": "Search functionality label"
+  },
+  "allLanguages": "All Languages",
+  "@allLanguages": {
+    "description": "Language filter option"
+  },
+  "darkMode": "DARK MODE",
+  "@darkMode": {
+    "description": "Dark mode toggle label"
+  },
+  "theme": "Theme",
+  "@theme": {
+    "description": "Theme selection label"
+  },
+  "lightTheme": "Light",
+  "@lightTheme": {
+    "description": "Light theme option"
+  },
+  "darkTheme": "Dark",
+  "@darkTheme": {
+    "description": "Dark theme option"
+  },
+  "systemTheme": "System",
+  "@systemTheme": {
+    "description": "System theme option"
+  },
+  "fontSize": "Font Size",
+  "@fontSize": {
+    "description": "Font size adjustment label"
+  },
+  "logout": "Logout",
+  "@logout": {
+    "description": "Logout button text"
+  },
+  "account": "Account",
+  "@account": {
+    "description": "Account section header"
+  },
+  "system": "System",
+  "@system": {
+    "description": "System section header"
+  },
+  "display": "Display",
+  "@display": {
+    "description": "Display section header"
+  },
+  "deleteGist": "Delete Gist",
+  "@deleteGist": {
+    "description": "Delete gist button text"
+  },
+  "confirmDelete": "Are you sure you want to delete this gist?",
+  "@confirmDelete": {
+    "description": "Delete confirmation message"
+  },
+  "permanent": "This action cannot be undone.",
+  "@permanent": {
+    "description": "Warning about permanent action"
+  },
+  "cancel": "Cancel",
+  "@cancel": {
+    "description": "Cancel button text"
+  },
+  "delete": "Delete",
+  "@delete": {
+    "description": "Delete confirmation button"
+  },
+  "filename": "Filename",
+  "@filename": {
+    "description": "Filename input label"
+  },
+  "description": "Description (optional)",
+  "@description": {
+    "description": "Description input label"
+  },
+  "public": "Public",
+  "@public": {
+    "description": "Public visibility option"
+  },
+  "created": "created:",
+  "@created": {
+    "description": "Creation date label"
+  },
+  "lastUpdated": "Last updated:",
+  "@lastUpdated": {
+    "description": "Last update timestamp label"
+  },
+  "loadingGists": "Loading Gists...",
+  "@loadingGists": {
+    "description": "Loading message on first launch"
+  },
+  "noGistsYet": "No gists yet",
+  "@noGistsYet": {
+    "description": "Empty state message when user has no gists"
+  },
+  "noMatchingGists": "No matching gists found",
+  "@noMatchingGists": {
+    "description": "Empty state message when search returns no results"
+  },
+  "createFirstGist": "Create your first gist by tapping the + button below",
+  "@createFirstGist": {
+    "description": "Instruction for creating first gist"
+  },
+  "adjustSearch": "Try adjusting your search or language filter",
+  "@adjustSearch": {
+    "description": "Suggestion when no search results found"
+  },
+  "scrollToTop": "Scroll to top",
+  "@scrollToTop": {
+    "description": "Accessibility label for scroll to top button"
+  },
+  "createNewGist": "Create new gist",
+  "@createNewGist": {
+    "description": "Accessibility label for create new gist button"
+  },
+  "launchAtLogin": "Launch at Login",
+  "@launchAtLogin": {
+    "description": "Option to start app when user logs in"
+  },
+  "quit": "Quit",
+  "@quit": {
+    "description": "Quit application button text"
+  },
+  "star": "Star",
+  "@star": {
+    "description": "Star button text"
+  },
+  "unstar": "Unstar",
+  "@unstar": {
+    "description": "Unstar button text"
+  },
+  "starred": "Starred",
+  "@starred": {
+    "description": "Indicates gist is starred"
+  },
+  "fork": "Fork",
+  "@fork": {
+    "description": "Fork button text"
+  },
+  "forked": "Forked",
+  "@forked": {
+    "description": "Indicates gist was forked"
+  },
+  "forkSuccess": "Gist forked successfully!",
+  "@forkSuccess": {
+    "description": "Success message after forking"
+  },
+  "publicGists": "Public Gists",
+  "@publicGists": {
+    "description": "Public gists section title"
+  },
+  "browsePublicGists": "Browse Public Gists",
+  "@browsePublicGists": {
+    "description": "Button to browse public gists"
+  },
+  "errorStarring": "Error starring gist",
+  "@errorStarring": {
+    "description": "Error message for star operation"
+  },
+  "errorForking": "Error forking gist",
+  "@errorForking": {
+    "description": "Error message for fork operation"
+  },
+  "loadMore": "Load More",
+  "@loadMore": {
+    "description": "Load more button text"
+  },
+  "noPublicGists": "No public gists found",
+  "@noPublicGists": {
+    "description": "Empty state for public gists"
+  },
+  "starredGists": "Starred Gists",
+  "@starredGists": {
+    "description": "Starred gists section title"
+  },
+  "myGists": "My Gists",
+  "@myGists": {
+    "description": "My gists section title"
+  },
+  "share": "Share",
+  "@share": {
+    "description": "Share button text"
+  },
+  "shareGist": "Share Gist",
+  "@shareGist": {
+    "description": "Share gist action"
+  },
+  "exportFile": "Export as File",
+  "@exportFile": {
+    "description": "Export gist as file action"
+  },
+  "generateQRCode": "Generate QR Code",
+  "@generateQRCode": {
+    "description": "Generate QR code action"
+  },
+  "copyEmbedCode": "Copy Embed Code",
+  "@copyEmbedCode": {
+    "description": "Copy embed code action"
+  },
+  "copyGistUrl": "Copy Gist URL",
+  "@copyGistUrl": {
+    "description": "Copy gist URL action"
+  },
+  "moreActions": "More Actions",
+  "@moreActions": {
+    "description": "More actions menu"
+  },
+  "exportSuccess": "Gist exported successfully",
+  "@exportSuccess": {
+    "description": "Export success message"
+  },
+  "exportError": "Error exporting gist",
+  "@exportError": {
+    "description": "Export error message"
+  },
+  "embedCodeCopied": "Embed code copied to clipboard",
+  "@embedCodeCopied": {
+    "description": "Embed code copied message"
+  },
+  "urlCopied": "URL copied to clipboard",
+  "@urlCopied": {
+    "description": "URL copied message"
+  },
+  "qrCodeTitle": "QR Code",
+  "@qrCodeTitle": {
+    "description": "QR code dialog title"
+  },
+  "scanToOpen": "Scan to open gist",
+  "@scanToOpen": {
+    "description": "QR code instruction"
+  },
+  "searchPublicGistsHint": "Search or @username",
+  "@searchPublicGistsHint": {
+    "description": "Placeholder for public gists search field"
+  },
+  "close": "Close",
+  "@close": {
+    "description": "Close button text"
+  },
+  "clear": "Clear",
+  "@clear": {
+    "description": "Clear button text"
+  },
+  "tryDifferentSearch": "Try a different search term",
+  "@tryDifferentSearch": {
+    "description": "Suggestion when search returns no results"
+  },
+  "showingGistsFromUser": "Showing {count} gists from user",
+  "@showingGistsFromUser": {
+    "description": "Search result count for user gists",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "foundInLoadedGists": "Found {count} in loaded gists. Use @username to fetch all gists from a user.",
+  "@foundInLoadedGists": {
+    "description": "Search result count with hint",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "raw": "Raw",
+  "@raw": {
+    "description": "Raw markdown view toggle"
+  },
+  "preview": "Preview",
+  "@preview": {
+    "description": "Rendered markdown preview toggle"
+  },
+  "sortBy": "Sort by",
+  "@sortBy": {
+    "description": "Sort options menu label"
+  },
+  "sortDateNewest": "Date (Newest)",
+  "@sortDateNewest": {
+    "description": "Sort by newest date"
+  },
+  "sortDateOldest": "Date (Oldest)",
+  "@sortDateOldest": {
+    "description": "Sort by oldest date"
+  },
+  "sortNameAsc": "Name (A-Z)",
+  "@sortNameAsc": {
+    "description": "Sort by name ascending"
+  },
+  "sortNameDesc": "Name (Z-A)",
+  "@sortNameDesc": {
+    "description": "Sort by name descending"
+  },
+  "sortLanguage": "Language",
+  "@sortLanguage": {
+    "description": "Sort by language"
+  },
+  "sortStars": "Stars",
+  "@sortStars": {
+    "description": "Sort by star count"
+  },
+  "pin": "Pin",
+  "@pin": {
+    "description": "Pin gist action"
+  },
+  "unpin": "Unpin",
+  "@unpin": {
+    "description": "Unpin gist action"
+  },
+  "pinned": "Pinned",
+  "@pinned": {
+    "description": "Indicates gist is pinned"
+  },
+  "archive": "Archive",
+  "@archive": {
+    "description": "Archive gist action"
+  },
+  "unarchive": "Unarchive",
+  "@unarchive": {
+    "description": "Unarchive gist action"
+  },
+  "archived": "Archived",
+  "@archived": {
+    "description": "Indicates gist is archived"
+  },
+  "showArchived": "Show Archived",
+  "@showArchived": {
+    "description": "Toggle to show archived gists"
+  },
+  "hideArchived": "Hide Archived",
+  "@hideArchived": {
+    "description": "Toggle to hide archived gists"
+  },
+  "gistPinned": "Gist pinned",
+  "@gistPinned": {
+    "description": "Confirmation that gist was pinned"
+  },
+  "gistUnpinned": "Gist unpinned",
+  "@gistUnpinned": {
+    "description": "Confirmation that gist was unpinned"
+  },
+  "gistArchived": "Gist archived",
+  "@gistArchived": {
+    "description": "Confirmation that gist was archived"
+  },
+  "gistUnarchived": "Gist unarchived",
+  "@gistUnarchived": {
+    "description": "Confirmation that gist was unarchived"
+  },
+  "organize": "Organize",
+  "@organize": {
+    "description": "Organization menu label"
+  },
+  "exportCurrentFile": "Export Selected File",
+  "@exportCurrentFile": {
+    "description": "Export only the selected file"
+  },
+  "exportAllFiles": "Export All Files",
+  "@exportAllFiles": {
+    "description": "Export all files in the gist"
+  },
+  "shareCurrentFile": "Share Selected File",
+  "@shareCurrentFile": {
+    "description": "Share only the selected file"
+  },
+  "shareAllFiles": "Share All Files",
+  "@shareAllFiles": {
+    "description": "Share all files in the gist"
+  },
+  "deleteSelectedFile": "Delete Selected File",
+  "@deleteSelectedFile": {
+    "description": "Delete only the selected file"
+  },
+  "deleteAllFiles": "Delete Entire Gist",
+  "@deleteAllFiles": {
+    "description": "Delete the entire gist and all files"
+  },
+  "exportAllSuccess": "All files exported to",
+  "@exportAllSuccess": {
+    "description": "Message when all files exported successfully"
+  },
+  "filesExported": "{count} files exported",
+  "@filesExported": {
+    "description": "Count of files exported",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "openInFinderAfterExport": "Open Finder after file export",
+  "@openInFinderAfterExport": {
+    "description": "Setting to reveal exported files in Finder"
+  },
+  "ok": "OK",
+  "@ok": {
+    "description": "Generic OK button"
+  },
+  "open": "Open",
+  "@open": {
+    "description": "Button to open a link"
+  },
+  "discard": "Discard",
+  "@discard": {
+    "description": "Button to discard changes"
+  },
+  "errorWithDetails": "Error: {error}",
+  "@errorWithDetails": {
+    "description": "Generic error message with details",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "errorLoadingContent": "Error loading content: {statusCode}",
+  "@errorLoadingContent": {
+    "description": "Error shown when gist file content fails to load, with HTTP status code",
+    "placeholders": {
+      "statusCode": {
+        "type": "int"
+      }
+    }
+  },
+  "noDescription": "No description",
+  "@noDescription": {
+    "description": "Placeholder shown when a gist has no description"
+  },
+  "moreFiles": "... and {count, plural, =1{1 more file} other{{count} more files}}",
+  "@moreFiles": {
+    "description": "Shown below a truncated file list, with the number of hidden files",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "createdTimeAgo": "Created: {time}",
+  "@createdTimeAgo": {
+    "description": "Gist creation time, e.g. \"Created: 2 days ago\"",
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "updatedTimeAgo": "Updated: {time}",
+  "@updatedTimeAgo": {
+    "description": "Gist last update time, e.g. \"Updated: 2 days ago\"",
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "lastUpdatedTimeAgo": "Last updated: {time}",
+  "@lastUpdatedTimeAgo": {
+    "description": "Gist last update time, e.g. \"Last updated: 2 days ago\"",
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "deleteFile": "Delete File",
+  "@deleteFile": {
+    "description": "Title/button for deleting a single file from a gist"
+  },
+  "deleteFileMessage": "You are about to permanently delete the file \"{fileName}\".",
+  "@deleteFileMessage": {
+    "description": "Confirmation message before deleting a single file",
+    "placeholders": {
+      "fileName": {
+        "type": "String"
+      }
+    }
+  },
+  "deleteGistMessage": "You are about to permanently delete this gist.",
+  "@deleteGistMessage": {
+    "description": "Confirmation message before deleting a single-file gist"
+  },
+  "deleteEntireGistMessage": "You are about to permanently delete this entire gist and all its files.",
+  "@deleteEntireGistMessage": {
+    "description": "Confirmation message before deleting a multi-file gist"
+  },
+  "conflictResolution": "Conflict Resolution",
+  "@conflictResolution": {
+    "description": "Title of the conflict resolution screen"
+  },
+  "allConflictsResolved": "All conflicts resolved!",
+  "@allConflictsResolved": {
+    "description": "Shown when there are no remaining sync conflicts"
+  },
+  "conflictProgress": "Conflict {current} of {total}",
+  "@conflictProgress": {
+    "description": "Conflict resolution screen title showing position in the list",
+    "placeholders": {
+      "current": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "previousConflict": "Previous conflict",
+  "@previousConflict": {
+    "description": "Tooltip for going to the previous conflict"
+  },
+  "nextConflict": "Next conflict",
+  "@nextConflict": {
+    "description": "Tooltip for going to the next conflict"
+  },
+  "conflictExplanation": "This gist was modified both locally and remotely. Choose which version to keep.",
+  "@conflictExplanation": {
+    "description": "Explanation of a sync conflict"
+  },
+  "conflictGistLabel": "Gist: {name}",
+  "@conflictGistLabel": {
+    "description": "Label identifying the conflicting gist by description or ID",
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "yourLocalVersion": "Your Local Version",
+  "@yourLocalVersion": {
+    "description": "Header for the local version in a conflict comparison"
+  },
+  "remoteVersionGitHub": "Remote Version (GitHub)",
+  "@remoteVersionGitHub": {
+    "description": "Header for the remote version in a conflict comparison"
+  },
+  "chooseResolution": "Choose Resolution:",
+  "@chooseResolution": {
+    "description": "Heading above conflict resolution options"
+  },
+  "keepMyLocalChanges": "Keep My Local Changes",
+  "@keepMyLocalChanges": {
+    "description": "Conflict resolution option to keep local changes"
+  },
+  "keepMyLocalChangesDescription": "Overwrite the remote version with your local changes",
+  "@keepMyLocalChangesDescription": {
+    "description": "Description of the keep-local resolution option"
+  },
+  "keepRemoteVersion": "Keep Remote Version",
+  "@keepRemoteVersion": {
+    "description": "Conflict resolution option to keep the remote version"
+  },
+  "keepRemoteVersionDescription": "Discard your local changes and use the GitHub version",
+  "@keepRemoteVersionDescription": {
+    "description": "Description of the keep-remote resolution option"
+  },
+  "discardLocalChanges": "Discard Local Changes",
+  "@discardLocalChanges": {
+    "description": "Conflict resolution option to discard local changes"
+  },
+  "discardLocalChangesDescription": "Remove this operation from the sync queue",
+  "@discardLocalChangesDescription": {
+    "description": "Description of the discard resolution option"
+  },
+  "modifiedUnknown": "Modified: unknown",
+  "@modifiedUnknown": {
+    "description": "Shown when a version has no modification time"
+  },
+  "modifiedAt": "Modified: {time}",
+  "@modifiedAt": {
+    "description": "Modification time of a version, e.g. \"Modified: 5 minutes ago\"",
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "filesLabel": "Files:",
+  "@filesLabel": {
+    "description": "Label above a list of files"
+  },
+  "fileDeletedLabel": "deleted",
+  "@fileDeletedLabel": {
+    "description": "Marker shown next to a file that was deleted locally"
+  },
+  "charCount": "{count, plural, =1{1 char} other{{count} chars}}",
+  "@charCount": {
+    "description": "Number of characters in a file",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "justNow": "Just now",
+  "@justNow": {
+    "description": "Relative time for less than a minute ago"
+  },
+  "minutesAgo": "{count, plural, =1{1 minute ago} other{{count} minutes ago}}",
+  "@minutesAgo": {
+    "description": "Relative time in minutes",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "hoursAgo": "{count, plural, =1{1 hour ago} other{{count} hours ago}}",
+  "@hoursAgo": {
+    "description": "Relative time in hours",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "daysAgo": "{count, plural, =1{1 day ago} other{{count} days ago}}",
+  "@daysAgo": {
+    "description": "Relative time in days",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "keepLocalChangesTitle": "Keep Local Changes?",
+  "@keepLocalChangesTitle": {
+    "description": "Title of the keep-local confirmation dialog"
+  },
+  "keepLocalChangesMessage": "This will overwrite the remote version with your local changes. This action cannot be undone.",
+  "@keepLocalChangesMessage": {
+    "description": "Body of the keep-local confirmation dialog"
+  },
+  "keepLocal": "Keep Local",
+  "@keepLocal": {
+    "description": "Button to confirm keeping local changes"
+  },
+  "keepRemoteVersionTitle": "Keep Remote Version?",
+  "@keepRemoteVersionTitle": {
+    "description": "Title of the keep-remote confirmation dialog"
+  },
+  "keepRemoteVersionMessage": "This will discard your local changes and keep the remote version. This action cannot be undone.",
+  "@keepRemoteVersionMessage": {
+    "description": "Body of the keep-remote confirmation dialog"
+  },
+  "keepRemote": "Keep Remote",
+  "@keepRemote": {
+    "description": "Button to confirm keeping the remote version"
+  },
+  "discardChangesTitle": "Discard Changes?",
+  "@discardChangesTitle": {
+    "description": "Title of the discard-changes confirmation dialog"
+  },
+  "discardChangesMessage": "This will remove your local changes without syncing them. This action cannot be undone.",
+  "@discardChangesMessage": {
+    "description": "Body of the discard-changes confirmation dialog"
+  },
+  "gistMustHaveOneFile": "Gist must have at least one file",
+  "@gistMustHaveOneFile": {
+    "description": "Error when trying to remove the last file of a gist"
+  },
+  "errorCreatingGist": "Error creating gist: {error}",
+  "@errorCreatingGist": {
+    "description": "Error when creating a gist fails",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "gistSavedOffline": "Gist saved offline. Will sync when connected.",
+  "@gistSavedOffline": {
+    "description": "Shown when a new gist is queued for sync while offline"
+  },
+  "errorSavingGist": "Error saving gist: {error}",
+  "@errorSavingGist": {
+    "description": "Error when saving a gist fails",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "changesSavedOffline": "Changes saved offline. Will sync when connected.",
+  "@changesSavedOffline": {
+    "description": "Shown when gist edits are queued for sync while offline"
+  },
+  "deleteFileOrGistPrompt": "Do you want to delete only \"{fileName}\" or the entire gist?",
+  "@deleteFileOrGistPrompt": {
+    "description": "Asks whether to delete one file or the whole multi-file gist",
+    "placeholders": {
+      "fileName": {
+        "type": "String"
+      }
+    }
+  },
+  "errorDeleting": "Error deleting: {error}",
+  "@errorDeleting": {
+    "description": "Error when a delete operation fails",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "addFile": "Add file",
+  "@addFile": {
+    "description": "Tooltip for adding a file to a gist"
+  },
+  "removeFile": "Remove file",
+  "@removeFile": {
+    "description": "Tooltip for removing a file from a gist"
+  },
+  "newFileNumbered": "New file {number}",
+  "@newFileNumbered": {
+    "description": "Placeholder name for an unnamed file in the editor",
+    "placeholders": {
+      "number": {
+        "type": "int"
+      }
+    }
+  },
+  "newGist": "New Gist",
+  "@newGist": {
+    "description": "Title of the create gist screen"
+  },
+  "filenameHint": "e.g., script.py",
+  "@filenameHint": {
+    "description": "Hint text for the filename field"
+  },
+  "offlineNoCachedGists": "You are offline. No cached gists available.",
+  "@offlineNoCachedGists": {
+    "description": "Shown when offline with no cached gists"
+  },
+  "syncStatus": "Sync Status",
+  "@syncStatus": {
+    "description": "Title of the sync status dialog"
+  },
+  "syncing": "Syncing...",
+  "@syncing": {
+    "description": "Shown while sync is in progress"
+  },
+  "pendingCountLabel": "Pending: {count}",
+  "@pendingCountLabel": {
+    "description": "Number of pending sync operations",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "conflictCountLabel": "Conflicts: {count}",
+  "@conflictCountLabel": {
+    "description": "Number of sync conflicts",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "operationsLabel": "Operations:",
+  "@operationsLabel": {
+    "description": "Heading above the list of queued sync operations"
+  },
+  "resolveConflicts": "Resolve Conflicts",
+  "@resolveConflicts": {
+    "description": "Button to open the conflict resolution screen"
+  },
+  "willSyncWhenRestored": "Will sync automatically when connection is restored",
+  "@willSyncWhenRestored": {
+    "description": "Shown when sync is requested while offline"
+  },
+  "syncNow": "Sync Now",
+  "@syncNow": {
+    "description": "Button to sync pending operations now"
+  },
+  "selectLanguage": "Select Language",
+  "@selectLanguage": {
+    "description": "Tooltip for the language filter menu"
+  },
+  "offlineChangesWillSync": "You are offline. Changes will sync when connected.",
+  "@offlineChangesWillSync": {
+    "description": "Offline banner text"
+  },
+  "pendingBadge": "{count, plural, other{{count} pending}}",
+  "@pendingBadge": {
+    "description": "Badge showing number of pending sync operations",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "errorLoadingPublicGists": "Error loading public gists: {error}",
+  "@errorLoadingPublicGists": {
+    "description": "Error when loading public gists fails",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "errorSearching": "Error searching: {error}",
+  "@errorSearching": {
+    "description": "Error when searching fails",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "byAuthor": "by {author}",
+  "@byAuthor": {
+    "description": "Gist author attribution",
+    "placeholders": {
+      "author": {
+        "type": "String"
+      }
+    }
+  },
+  "errorSigningIn": "Error signing in: {error}",
+  "@errorSigningIn": {
+    "description": "Error when sign in fails",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "connectingToGitHub": "Connecting to GitHub",
+  "@connectingToGitHub": {
+    "description": "Shown on the sign in button while connecting"
+  },
+  "errorSettingLaunchAtLogin": "Error setting launch at login: {error}",
+  "@errorSettingLaunchAtLogin": {
+    "description": "Error when toggling launch at login fails",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "errorQuittingApp": "Error quitting app: {error}",
+  "@errorQuittingApp": {
+    "description": "Error when quitting the app fails",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "errorLoggingOut": "Error logging out: {error}",
+  "@errorLoggingOut": {
+    "description": "Error when logging out fails",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "tabSize": "Tab Size",
+  "@tabSize": {
+    "description": "Tab size settings section header"
+  },
+  "tabSizeSpaces": "{count, plural, =1{1 space} other{{count} spaces}}",
+  "@tabSizeSpaces": {
+    "description": "Tab size slider label",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "tabKeyWillInsert": "{count, plural, =1{Tab key will insert 1 space} other{Tab key will insert {count} spaces}}",
+  "@tabKeyWillInsert": {
+    "description": "Explanation of the tab size setting",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "errorLoadingUserProfile": "Error loading user profile",
+  "@errorLoadingUserProfile": {
+    "description": "Error when a user profile fails to load"
+  },
+  "followers": "Followers",
+  "@followers": {
+    "description": "User profile followers stat label"
+  },
+  "following": "Following",
+  "@following": {
+    "description": "User profile following stat label"
+  },
+  "repos": "Repos",
+  "@repos": {
+    "description": "User profile public repositories stat label"
+  },
+  "gists": "Gists",
+  "@gists": {
+    "description": "User profile public gists stat label"
+  },
+  "joinedDate": "Joined {date}",
+  "@joinedDate": {
+    "description": "When the user joined GitHub, e.g. \"Joined Jan 2020\"",
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "viewUserGists": "View {username}'s Gists",
+  "@viewUserGists": {
+    "description": "Button to view a user's gists",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "openLink": "Open Link",
+  "@openLink": {
+    "description": "Title of the open link confirmation dialog"
+  },
+  "openLinkConfirmation": "Do you want to open this link in your browser?\n\n{url}",
+  "@openLinkConfirmation": {
+    "description": "Body of the open link confirmation dialog",
+    "placeholders": {
+      "url": {
+        "type": "String"
+      }
+    }
+  },
+  "couldNotOpenLink": "Could not open link",
+  "@couldNotOpenLink": {
+    "description": "Error when a link cannot be opened"
+  },
+  "noFollowersFound": "No followers found",
+  "@noFollowersFound": {
+    "description": "Shown when a user has no followers"
+  },
+  "noFollowingFound": "No following found",
+  "@noFollowingFound": {
+    "description": "Shown when a user follows nobody"
+  },
+  "errorLoadingFollowers": "Error loading followers: {error}",
+  "@errorLoadingFollowers": {
+    "description": "Error when loading followers fails",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "errorLoadingFollowing": "Error loading following: {error}",
+  "@errorLoadingFollowing": {
+    "description": "Error when loading followed users fails",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "deleteIsPermanent": "This action is permanent and cannot be undone.",
+  "@deleteIsPermanent": {
+    "description": "Warning in the delete confirmation dialog"
+  },
+  "typeToConfirm": "Type \"{text}\" to confirm:",
+  "@typeToConfirm": {
+    "description": "Instruction to type the confirmation word",
+    "placeholders": {
+      "text": {
+        "type": "String"
+      }
+    }
+  },
+  "typeExactly": "Please type \"{text}\" exactly",
+  "@typeExactly": {
+    "description": "Validation error when the confirmation word does not match",
+    "placeholders": {
+      "text": {
+        "type": "String"
+      }
+    }
+  },
+  "fileDeleted": "File \"{fileName}\" deleted",
+  "@fileDeleted": {
+    "description": "Shown after a file is deleted",
+    "placeholders": {
+      "fileName": {
+        "type": "String"
+      }
+    }
+  },
+  "errorDeletingFile": "Error deleting file: {error}",
+  "@errorDeletingFile": {
+    "description": "Error when deleting a file fails",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "gistDeleted": "Gist deleted",
+  "@gistDeleted": {
+    "description": "Shown after a gist is deleted"
+  },
+  "errorDeletingGist": "Error deleting gist: {error}",
+  "@errorDeletingGist": {
+    "description": "Error when deleting a gist fails",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "noFilesAvailable": "No files available",
+  "@noFilesAvailable": {
+    "description": "Shown when a gist has no files"
+  },
+  "fileDataNotAvailable": "File data not available",
+  "@fileDataNotAvailable": {
+    "description": "Shown when the selected file data is missing"
+  },
+  "copied": "Copied!",
+  "@copied": {
+    "description": "Tooltip after content is copied"
+  },
+  "copyToClipboard": "Copy to clipboard",
+  "@copyToClipboard": {
+    "description": "Tooltip for the copy button"
+  },
+  "contentCopiedToClipboard": "Content copied to clipboard",
+  "@contentCopiedToClipboard": {
+    "description": "Accessibility label after content is copied"
+  },
+  "copyGistContentToClipboard": "Copy gist content to clipboard",
+  "@copyGistContentToClipboard": {
+    "description": "Accessibility label for the copy button"
+  },
+  "internetNotAvailable": "Internet connection not available",
+  "@internetNotAvailable": {
+    "description": "Shown when content cannot be loaded due to no connection"
+  },
+  "editGist": "Edit gist",
+  "@editGist": {
+    "description": "Accessibility label for the edit button"
+  }
+}

@@ -1,0 +1,512 @@
+{
+  "signIn": "เข้าสู่ระบบด้วย GitHub",
+  "@signIn": {
+    "description": "GitHub sign in button text"
+  },
+  "search": "ค้นหา",
+  "@search": {
+    "description": "Search functionality label"
+  },
+  "allLanguages": "ภาษาทั้งหมด",
+  "@allLanguages": {
+    "description": "Language filter option"
+  },
+  "darkMode": "โหมดมืด",
+  "@darkMode": {
+    "description": "Dark mode toggle label"
+  },
+  "theme": "ธีม",
+  "@theme": {
+    "description": "Theme selection label"
+  },
+  "lightTheme": "สว่าง",
+  "@lightTheme": {
+    "description": "Light theme option"
+  },
+  "darkTheme": "มืด",
+  "@darkTheme": {
+    "description": "Dark theme option"
+  },
+  "systemTheme": "ระบบ",
+  "@systemTheme": {
+    "description": "System theme option"
+  },
+  "fontSize": "ขนาดตัวอักษร",
+  "@fontSize": {
+    "description": "Font size adjustment label"
+  },
+  "logout": "ออกจากระบบ",
+  "@logout": {
+    "description": "Logout button text"
+  },
+  "account": "บัญชี",
+  "@account": {
+    "description": "Account section header"
+  },
+  "system": "ระบบ",
+  "@system": {
+    "description": "System section header"
+  },
+  "display": "การแสดงผล",
+  "@display": {
+    "description": "Display section header"
+  },
+  "deleteGist": "ลบ Gist",
+  "@deleteGist": {
+    "description": "Delete gist button text"
+  },
+  "confirmDelete": "คุณแน่ใจหรือไม่ว่าต้องการลบ Gist นี้?",
+  "@confirmDelete": {
+    "description": "Delete confirmation message"
+  },
+  "permanent": "การกระทำนี้ไม่สามารถยกเลิกได้",
+  "@permanent": {
+    "description": "Warning about permanent action"
+  },
+  "cancel": "ยกเลิก",
+  "@cancel": {
+    "description": "Cancel button text"
+  },
+  "delete": "ลบ",
+  "@delete": {
+    "description": "Delete confirmation button"
+  },
+  "filename": "ชื่อไฟล์",
+  "@filename": {
+    "description": "Filename input label"
+  },
+  "description": "คำอธิบาย (ไม่บังคับ)",
+  "@description": {
+    "description": "Description input label"
+  },
+  "public": "สาธารณะ",
+  "@public": {
+    "description": "Public visibility option"
+  },
+  "created": "สร้างเมื่อ:",
+  "@created": {
+    "description": "Creation date label"
+  },
+  "lastUpdated": "อัปเดตล่าสุด:",
+  "@lastUpdated": {
+    "description": "Last update timestamp label"
+  },
+  "loadingGists": "กำลังโหลด Gist...",
+  "@loadingGists": {
+    "description": "Loading message on first launch"
+  },
+  "noGistsYet": "ยังไม่มี Gist",
+  "@noGistsYet": {
+    "description": "Empty state message when user has no gists"
+  },
+  "noMatchingGists": "ไม่พบ Gist ที่ตรงกัน",
+  "@noMatchingGists": {
+    "description": "Empty state message when search returns no results"
+  },
+  "createFirstGist": "สร้าง Gist แรกของคุณโดยแตะปุ่ม + ด้านล่าง",
+  "@createFirstGist": {
+    "description": "Instruction for creating first gist"
+  },
+  "adjustSearch": "ลองปรับการค้นหาหรือตัวกรองภาษา",
+  "@adjustSearch": {
+    "description": "Suggestion when no search results found"
+  },
+  "scrollToTop": "เลื่อนขึ้นด้านบน",
+  "@scrollToTop": {
+    "description": "Accessibility label for scroll to top button"
+  },
+  "createNewGist": "สร้าง Gist ใหม่",
+  "@createNewGist": {
+    "description": "Accessibility label for create new gist button"
+  },
+  "launchAtLogin": "เปิดเมื่อเข้าสู่ระบบ",
+  "@launchAtLogin": {
+    "description": "Option to start app when user logs in"
+  },
+  "quit": "ออก",
+  "@quit": {
+    "description": "Quit application button text"
+  },
+  "star": "ติดดาว",
+  "@star": {
+    "description": "Star button text"
+  },
+  "unstar": "เลิกติดดาว",
+  "@unstar": {
+    "description": "Unstar button text"
+  },
+  "starred": "ติดดาวแล้ว",
+  "@starred": {
+    "description": "Indicates gist is starred"
+  },
+  "fork": "แยก",
+  "@fork": {
+    "description": "Fork button text"
+  },
+  "forked": "แยกแล้ว",
+  "@forked": {
+    "description": "Indicates gist was forked"
+  },
+  "forkSuccess": "แยก Gist สำเร็จ!",
+  "@forkSuccess": {
+    "description": "Success message after forking"
+  },
+  "publicGists": "Gist สาธารณะ",
+  "@publicGists": {
+    "description": "Public gists section title"
+  },
+  "browsePublicGists": "เรียกดู Gist สาธารณะ",
+  "@browsePublicGists": {
+    "description": "Button to browse public gists"
+  },
+  "errorStarring": "เกิดข้อผิดพลาดในการติดดาว Gist",
+  "@errorStarring": {
+    "description": "Error message for star operation"
+  },
+  "errorForking": "เกิดข้อผิดพลาดในการแยก Gist",
+  "@errorForking": {
+    "description": "Error message for fork operation"
+  },
+  "loadMore": "โหลดเพิ่มเติม",
+  "@loadMore": {
+    "description": "Load more button text"
+  },
+  "noPublicGists": "ไม่พบ Gist สาธารณะ",
+  "@noPublicGists": {
+    "description": "Empty state for public gists"
+  },
+  "starredGists": "Gist ที่ติดดาว",
+  "@starredGists": {
+    "description": "Starred gists section title"
+  },
+  "myGists": "Gist ของฉัน",
+  "@myGists": {
+    "description": "My gists section title"
+  },
+  "share": "แชร์",
+  "@share": {
+    "description": "Share button text"
+  },
+  "shareGist": "แชร์ Gist",
+  "@shareGist": {
+    "description": "Share gist action"
+  },
+  "exportFile": "ส่งออกเป็นไฟล์",
+  "@exportFile": {
+    "description": "Export gist as file action"
+  },
+  "generateQRCode": "สร้างคิวอาร์โค้ด",
+  "@generateQRCode": {
+    "description": "Generate QR code action"
+  },
+  "copyEmbedCode": "คัดลอกโค้ดฝัง",
+  "@copyEmbedCode": {
+    "description": "Copy embed code action"
+  },
+  "copyGistUrl": "คัดลอก URL ของ Gist",
+  "@copyGistUrl": {
+    "description": "Copy gist URL action"
+  },
+  "moreActions": "การกระทำเพิ่มเติม",
+  "@moreActions": {
+    "description": "More actions menu"
+  },
+  "exportSuccess": "ส่งออก Gist สำเร็จ",
+  "@exportSuccess": {
+    "description": "Export success message"
+  },
+  "exportError": "เกิดข้อผิดพลาดในการส่งออก Gist",
+  "@exportError": {
+    "description": "Export error message"
+  },
+  "embedCodeCopied": "คัดลอกโค้ดฝังไปยังคลิปบอร์ดแล้ว",
+  "@embedCodeCopied": {
+    "description": "Embed code copied message"
+  },
+  "urlCopied": "คัดลอก URL ไปยังคลิปบอร์ดแล้ว",
+  "@urlCopied": {
+    "description": "URL copied message"
+  },
+  "qrCodeTitle": "คิวอาร์โค้ด",
+  "@qrCodeTitle": {
+    "description": "QR code dialog title"
+  },
+  "scanToOpen": "สแกนเพื่อเปิด Gist",
+  "@scanToOpen": {
+    "description": "QR code instruction"
+  },
+  "searchPublicGistsHint": "ค้นหาหรือ @ชื่อผู้ใช้",
+  "@searchPublicGistsHint": {
+    "description": "Placeholder for public gists search field"
+  },
+  "close": "ปิด",
+  "@close": {
+    "description": "Close button text"
+  },
+  "clear": "ล้าง",
+  "@clear": {
+    "description": "Clear button text"
+  },
+  "tryDifferentSearch": "ลองคำค้นหาอื่น",
+  "@tryDifferentSearch": {
+    "description": "Suggestion when search returns no results"
+  },
+  "showingGistsFromUser": "แสดง {count} Gist จากผู้ใช้",
+  "@showingGistsFromUser": {
+    "description": "Search result count for user gists",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "foundInLoadedGists": "พบ {count} ใน Gist ที่โหลดแล้ว ใช้ @ชื่อผู้ใช้เพื่อดึง Gist ทั้งหมดจากผู้ใช้",
+  "@foundInLoadedGists": {
+    "description": "Search result count with hint",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "raw": "ดิบ",
+  "@raw": {
+    "description": "Raw markdown view toggle"
+  },
+  "preview": "แสดงตัวอย่าง",
+  "@preview": {
+    "description": "Rendered markdown preview toggle"
+  },
+  "sortBy": "เรียงตาม",
+  "@sortBy": {
+    "description": "Sort options menu label"
+  },
+  "sortDateNewest": "วันที่ (ใหม่สุด)",
+  "@sortDateNewest": {
+    "description": "Sort by newest date"
+  },
+  "sortDateOldest": "วันที่ (เก่าสุด)",
+  "@sortDateOldest": {
+    "description": "Sort by oldest date"
+  },
+  "sortNameAsc": "ชื่อ (A-Z)",
+  "@sortNameAsc": {
+    "description": "Sort by name ascending"
+  },
+  "sortNameDesc": "ชื่อ (Z-A)",
+  "@sortNameDesc": {
+    "description": "Sort by name descending"
+  },
+  "sortLanguage": "ภาษา",
+  "@sortLanguage": {
+    "description": "Sort by language"
+  },
+  "sortStars": "ดาว",
+  "@sortStars": {
+    "description": "Sort by star count"
+  },
+  "pin": "ปักหมุด",
+  "@pin": {
+    "description": "Pin gist action"
+  },
+  "unpin": "เลิกปักหมุด",
+  "@unpin": {
+    "description": "Unpin gist action"
+  },
+  "pinned": "ปักหมุดแล้ว",
+  "@pinned": {
+    "description": "Indicates gist is pinned"
+  },
+  "archive": "เก็บถาวร",
+  "@archive": {
+    "description": "Archive gist action"
+  },
+  "unarchive": "เลิกเก็บถาวร",
+  "@unarchive": {
+    "description": "Unarchive gist action"
+  },
+  "archived": "เก็บถาวรแล้ว",
+  "@archived": {
+    "description": "Indicates gist is archived"
+  },
+  "showArchived": "แสดงที่เก็บถาวร",
+  "@showArchived": {
+    "description": "Toggle to show archived gists"
+  },
+  "hideArchived": "ซ่อนที่เก็บถาวร",
+  "@hideArchived": {
+    "description": "Toggle to hide archived gists"
+  },
+  "gistPinned": "ปักหมุด Gist แล้ว",
+  "@gistPinned": {
+    "description": "Confirmation that gist was pinned"
+  },
+  "gistUnpinned": "เลิกปักหมุด Gist แล้ว",
+  "@gistUnpinned": {
+    "description": "Confirmation that gist was unpinned"
+  },
+  "gistArchived": "เก็บถาวร Gist แล้ว",
+  "@gistArchived": {
+    "description": "Confirmation that gist was archived"
+  },
+  "gistUnarchived": "เลิกเก็บถาวร Gist แล้ว",
+  "@gistUnarchived": {
+    "description": "Confirmation that gist was unarchived"
+  },
+  "organize": "จัดระเบียบ",
+  "@organize": {
+    "description": "Organization menu label"
+  },
+  "exportCurrentFile": "ส่งออกไฟล์ที่เลือก",
+  "@exportCurrentFile": {
+    "description": "Export only the selected file"
+  },
+  "exportAllFiles": "ส่งออกไฟล์ทั้งหมด",
+  "@exportAllFiles": {
+    "description": "Export all files in the gist"
+  },
+  "shareCurrentFile": "แชร์ไฟล์ที่เลือก",
+  "@shareCurrentFile": {
+    "description": "Share only the selected file"
+  },
+  "shareAllFiles": "แชร์ไฟล์ทั้งหมด",
+  "@shareAllFiles": {
+    "description": "Share all files in the gist"
+  },
+  "deleteSelectedFile": "ลบไฟล์ที่เลือก",
+  "@deleteSelectedFile": {
+    "description": "Delete only the selected file"
+  },
+  "deleteAllFiles": "ลบ Gist ทั้งหมด",
+  "@deleteAllFiles": {
+    "description": "Delete the entire gist and all files"
+  },
+  "exportAllSuccess": "ส่งออกไฟล์ทั้งหมดไปยัง",
+  "@exportAllSuccess": {
+    "description": "Message when all files exported successfully"
+  },
+  "filesExported": "ส่งออก {count} ไฟล์แล้ว",
+  "@filesExported": {
+    "description": "Count of files exported",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "openInFinderAfterExport": "เปิด Finder หลังจากส่งออกไฟล์",
+  "@openInFinderAfterExport": {
+    "description": "Setting to reveal exported files in Finder"
+  },
+  "ok": "ตกลง",
+  "open": "เปิด",
+  "discard": "ทง",
+  "errorWithDetails": "เกิดข้อผิดพลาด: {error}",
+  "errorLoadingContent": "เกิดข้อผิดพลาดในการโหลดเนื้อหา: {statusCode}",
+  "noDescription": "ไม่มีคำอธิบาย",
+  "moreFiles": "... และ {count, plural, =1{ไฟล์อีก 1 ไฟล์} other{{count} ไฟล์อีก}}",
+  "createdTimeAgo": "สร้างเมื่อ: {time}",
+  "updatedTimeAgo": "อปเดตล่าสุด: {time}",
+  "lastUpdatedTimeAgo": "อปเดตล่าสุด: {time}",
+  "deleteFile": "ลบไฟล์",
+  "deleteFileMessage": "คุณกำลังจะลบไฟล์ \"{fileName}\" อย่างถาวร",
+  "deleteGistMessage": "คุณกำลังจะลบ Gist นี้อย่างถาวร",
+  "deleteEntireGistMessage": "คุณกำลังจะลบ Gist ทั้งหมดนี้และไฟล์ทั้งหมดอย่างถาวร",
+  "conflictResolution": "การแก้ไขข้อขดแยง",
+  "allConflictsResolved": "แก้ไขข้อขดแยงทั้งหมดแล้ว!",
+  "conflictProgress": "ความขดแยงที่ {current} จาก {total}",
+  "previousConflict": "ความขดแยงก่อนหน้า",
+  "nextConflict": "ความขดแยงถดไป",
+  "conflictExplanation": "มีการแก้ไขไฟล์นี้ทั้งในเครื่องและจากระยะไกล เลือกเวอร์ชันที่คุณต้องการเก็บไว้",
+  "conflictGistLabel": "Gist: {name}",
+  "yourLocalVersion": "เวอร์ชันของคุณ",
+  "remoteVersionGitHub": "เวอร์ชันระยะไกล (GitHub)",
+  "chooseResolution": "เลือกวิธีแก้ไขข้อขดแยง:",
+  "keepMyLocalChanges": "เก็บการเปลี่ยนแปลงของฉันไว้",
+  "keepMyLocalChangesDescription": "บันทกการเปลี่ยนแปลงของคุณและแทนที่เวอร์ชันบนเซร์ฟเวอร์",
+  "keepRemoteVersion": "เก็บเวอร์ชันระยะไกล",
+  "keepRemoteVersionDescription": "ทงการเปลี่ยนแปลงในเครื่องของคุณและใช้เวอร์ชันของ GitHub",
+  "discardLocalChanges": "ทงการเปลี่ยนแปลงในเครื่อง",
+  "discardLocalChangesDescription": "ลบการดำเนินการนี้ออกจากควการซงค์",
+  "modifiedUnknown": "แก้ไข: ไม่ทราบวันที่",
+  "modifiedAt": "แก้ไขล่าสุด: {time}",
+  "filesLabel": "ไฟล์:",
+  "fileDeletedLabel": "ลบไปแล้ว",
+  "charCount": "{count, plural, =1{1 ตัวอกษร} other{{count} ตัวอกษร}}",
+  "justNow": "เมื่อก",
+  "minutesAgo": "{count, plural, =1{1 นาทีที่แล้ว} other{{count} นาทีที่แล้ว}}",
+  "hoursAgo": "{count, plural, =1{1 ชั่วโมงที่แล้ว} other{{count} ชั่วโมงที่แล้ว}}",
+  "daysAgo": "{count, plural, =1{1 วันที่ผ่านมา} other{{count} วันที่ผ่านมา}}",
+  "keepLocalChangesTitle": "เก็บการเปลี่ยนแปลงในเครื่อง?",
+  "keepLocalChangesMessage": "การเปลี่ยนแปลงในเครื่องของคุณจะถูกบันทกลงในเวอร์ชันออนไลน์ ทาการนี้แล้วจะไม่สามารถยอนกลับได้",
+  "keepLocal": "เก็บไว้ในเครื่อง",
+  "keepRemoteVersionTitle": "เก็บเวอร์ชันระยะไกลไว้?",
+  "keepRemoteVersionMessage": "การทำเช่นนี้จะทงการเปลี่ยนแปลงในเครื่องของคุณและเก็บเวอร์ชันจากระยะไกล การดำเนินการนี้ไม่สามารถยกเลกได้",
+  "keepRemote": "เก็บรีโมทไว้",
+  "discardChangesTitle": "ทงการเปลี่ยนแปลง?",
+  "discardChangesMessage": "การเปลี่ยนแปลงในเครื่องของคุณจะถูกลบโดยไม่ทำการซงค์ และไม่สามารถยอนกลับได้",
+  "gistMustHaveOneFile": "Gist ต้องมีไฟล์อย่างน้อยหนึ่งไฟล์",
+  "errorCreatingGist": "เกิดข้อผิดพลาดในการสร้าง Gist: {error}",
+  "gistSavedOffline": "บันทก Gist แบบออฟไลน์ จะซงค์เมื่อเชื่อมต่อ",
+  "errorSavingGist": "เกิดข้อผิดพลาดในการบันทก Gist: {error}",
+  "changesSavedOffline": "บันทกการเปลี่ยนแปลงแบบออฟไลน์ จะซงค์เมื่อเชื่อมต่อ",
+  "deleteFileOrGistPrompt": "ต้องการลบเฉพาะ \"{fileName}\" หรือลบทั้ง Gist เลย?",
+  "errorDeleting": "ลบไม่สำเร็จ: {error}",
+  "addFile": "เพิ่มไฟล์",
+  "removeFile": "ลบไฟล์",
+  "newFileNumbered": "ไฟล์ใหม่ {number}",
+  "newGist": "Gist ใหม่",
+  "filenameHint": "เช่น script.py",
+  "offlineNoCachedGists": "คุณออฟไลน์ ไม่มี Gist ที่บันทกไว้",
+  "syncStatus": "สถานะการซงค์",
+  "syncing": "กำลังซงค์…",
+  "pendingCountLabel": "กำลังรอ: {count}",
+  "conflictCountLabel": "ความขดแยง: {count}",
+  "operationsLabel": "การดำเนินการ:",
+  "resolveConflicts": "แก้ไขข้อขดแยง",
+  "willSyncWhenRestored": "จะซงค์โดยอัตโนมติเมื่อเชื่อมต่ออีกครั้ง",
+  "syncNow": "ซงค์เลย",
+  "selectLanguage": "เลือกภาษา",
+  "offlineChangesWillSync": "คุณออฟไลน์ การเปลี่ยนแปลงจะซงค์เมื่อเชื่อมต่อ",
+  "pendingBadge": "{count, plural, other{{count} รายการรอ}}",
+  "errorLoadingPublicGists": "เกิดข้อผิดพลาดในการโหลด Gist สาธารณะ: {error}",
+  "errorSearching": "เกิดข้อผิดพลาดในการค้นหา: {error}",
+  "byAuthor": "โดย {author}",
+  "errorSigningIn": "เกิดข้อผิดพลาดในการเข้าสู่ระบบ: {error}",
+  "connectingToGitHub": "กำลังเชื่อมต่อกับ GitHub",
+  "errorSettingLaunchAtLogin": "เกิดข้อผิดพลาดในการตั้งค่าเปิดโปรแกรมเมื่อเข้าสู่ระบบ: {error}",
+  "errorQuittingApp": "เกิดข้อผิดพลาดในการปิดแอป: {error}",
+  "errorLoggingOut": "เกิดข้อผิดพลาดในการออกจากระบบ: {error}",
+  "tabSize": "ขนาดแทบ",
+  "tabSizeSpaces": "{count, plural, =1{1 ช่องว่าง} other{{count} ช่องว่าง}}",
+  "tabKeyWillInsert": "{count, plural, =1{ปม Tab จะใส่ช่องว่าง 1 ช่อง} other{ปม Tab จะใส่ช่องว่าง {count} ช่อง}}",
+  "errorLoadingUserProfile": "เกิดข้อผิดพลาดในการโหลดโปรไฟล์ผู้ใช้",
+  "followers": "ผู้ติดตาม",
+  "following": "ผู้ติดตาม",
+  "repos": "ที่เก็บ",
+  "gists": "Gist",
+  "joinedDate": "เข้ารวมเมื่อ {date}",
+  "viewUserGists": "ดู Gist ของ {username}",
+  "openLink": "เปิดลิงก",
+  "openLinkConfirmation": "ต้องการเปิดลิงกนี้ในเบราว์เซอร์หรือไม่?\n\n{url}",
+  "couldNotOpenLink": "ไม่สามารถเปิดลิงกได้",
+  "noFollowersFound": "ไม่พบผู้ติดตาม",
+  "noFollowingFound": "ไม่พบผู้ที่ติดตาม",
+  "errorLoadingFollowers": "เกิดข้อผิดพลาดในการโหลดผู้ติดตาม: {error}",
+  "errorLoadingFollowing": "เกิดข้อผิดพลาดในการโหลดผู้ติดตาม: {error}",
+  "deleteIsPermanent": "การดำเนินการนี้ถาวรและไม่สามารถยอนกลับได้",
+  "typeToConfirm": "พิมพ์ \"{text}\" เพื่อยืนยน:",
+  "typeExactly": "โปรดพิมพ์ \"{text}\" ให้ตรงตามนี้",
+  "fileDeleted": "ไฟล์ \"{fileName}\" ถูกลบแล้ว",
+  "errorDeletingFile": "ไม่สามารถลบไฟล์ได้: {error}",
+  "gistDeleted": "ลบ Gist แล้ว",
+  "errorDeletingGist": "เกิดข้อผิดพลาดในการลบ Gist: {error}",
+  "noFilesAvailable": "ไม่มีไฟล์",
+  "fileDataNotAvailable": "ข้อมูลไฟล์ไม่พร้อมใช้งาน",
+  "copied": "คดลอกแล้ว!",
+  "copyToClipboard": "คดลอกไปยังคลิปบอร์ด",
+  "contentCopiedToClipboard": "คดลอกเนื้อหาไปยังคลิปบอร์ดแล้ว",
+  "copyGistContentToClipboard": "คดลอกเนื้อหา Gist ไปยังคลิปบอร์ด",
+  "internetNotAvailable": "ไม่มีการเชื่อมต่ออินเทอร์เนต",
+  "editGist": "แก้ไข Gist"
+}

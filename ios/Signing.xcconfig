@@ -1,0 +1,9 @@
+// App identity and code signing for the Runner target.
+//
+// These defaults build in the Simulator. To run on a device or ship a build,
+// copy Signing.local.xcconfig.example to Signing.local.xcconfig (gitignored)
+// and set your own team and bundle identifier there.
+PRODUCT_BUNDLE_IDENTIFIER = com.example.gisthunt
+DEVELOPMENT_TEAM =
+
+#include? "Signing.local.xcconfig"
