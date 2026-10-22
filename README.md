@@ -18,7 +18,7 @@ On macOS, GistHunt runs as a menu bar app. It has no Dock icon, so look for its 
 ## Requirements
 
 - [Flutter](https://docs.flutter.dev/get-started/install) 3.41 or newer
-- For iOS/macOS: Xcode (plugins resolve through Swift Package Manager; CocoaPods is not needed)
+- For iOS/macOS: Xcode
 - For Android: Android Studio or the Android SDK command-line tools
 - A GitHub account to create an OAuth App (below)
 
